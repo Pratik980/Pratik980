@@ -4,15 +4,10 @@
 <img
   align="right"
   alt="coding"
-  width="400"
-  src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTBmZWUyZDUwNmVjYzY3ZjE0OGYyZjY4Mjg3ZmE2Yjg0NjE2ZjNkNyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/gioLPAqDRZjzYpmuCp/giphy.gif"
+  width="200"
+  src="https://media0.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif?cid=ecf05e47hda6hmjyyfzwbkq3pnf3lfoxjm2q1tsw1x86loyh&ep=v1_gifs_search&rid=giphy.gif&ct=g"
 />
 
-<p>
-  <a href="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u"
-    >via GIPHY</a
-  >
-</p>
 <p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=pratik980&label=Profile%20views&color=0e75b6&style=flat"
@@ -21,8 +16,8 @@
 </p>
 
 - 🌱 I’m currently learning **React.js and tailwind CSS.**
-- - 💬 Ask me about **JavaScript, React and SCSS.**
-- - 📫 How to reach me **pratikthapw@gmail.com**
+- 💬 Ask me about **JavaScript, React and SCSS.**
+- 📫 How to reach me **pratikthapw@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -158,7 +153,7 @@
 
 <p>
   &nbsp;<img
-    align="left"
+    align="center"
     src="https://github-readme-stats.vercel.app/api?username=pratik980&show_icons=true&locale=en"
     alt="pratik980"
   />
@@ -166,7 +161,7 @@
 
 <p>
   <img
-    align="left"
+    align="center"
     src="https://github-readme-streak-stats.herokuapp.com/?user=pratik980&"
     alt="pratik980"
   />
