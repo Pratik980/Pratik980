@@ -20,8 +20,9 @@
   />
 </p>
 
-- 🌱 I’m currently learning **React.js and tailwind CSS.** - 💬 Ask me about
-**JavaScript, React and SCSS.** - 📫 How to reach me **pratikthapw@gmail.com**
+- 🌱 I’m currently learning **React.js and tailwind CSS.**
+- - 💬 Ask me about **JavaScript, React and SCSS.**
+- - 📫 How to reach me **pratikthapw@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -157,7 +158,7 @@
 
 <p>
   &nbsp;<img
-    align="center"
+    align="left"
     src="https://github-readme-stats.vercel.app/api?username=pratik980&show_icons=true&locale=en"
     alt="pratik980"
   />
@@ -165,7 +166,7 @@
 
 <p>
   <img
-    align="center"
+    align="left"
     src="https://github-readme-streak-stats.herokuapp.com/?user=pratik980&"
     alt="pratik980"
   />
