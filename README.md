@@ -133,7 +133,7 @@
       height="40"
     />
   </a>
-   <a href="https://zapier.com" target="_blank" rel="noreferrer">
+   <a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer">
     <img
       src="https://i.pinimg.com/originals/8c/b0/bf/8cb0bfe78c78a3161d8cf879d29881e5.jpg"
       alt="Markdown"
